@@ -353,25 +353,6 @@ class AppColors {
   /// Semi transparent dark1
   static const brandColorsDark5 = Color(0x33cce7ef); 
   
-  static const themeColorsBackground1 = Color(0xffe6f3f7); 
-  
-  static const themeColorsBackground2 = Color(0xfffbf9f8); 
-  
-  static const themeColorsHighlight1 = Color(0xff15493e); 
-  
-  static const themeColorsHighlight2 = Color(0xff375e96); 
-  
-  static const themeColorsText = Color(0xff1c2f4b); 
-  
-  static const themeColorsText2 = Color(0xff919191); 
-  
-  static const themeColorsText3 = Color(0xffababab); 
-  
-  static const themeColorsDanger = Color(0xffdb7171); 
-  
-  /// highlight1 at 20% opacity
-  static const themeColorsCard = Color(0x3315493e); 
-  
   static const themeColorsBackgroundPrimary = Color(0xffe6f3f7); 
   
   static const themeColorsBackgroundSecondary = Color(0xfffbf9f8); 
