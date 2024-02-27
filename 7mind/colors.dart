@@ -372,5 +372,39 @@ class AppColors {
   /// highlight1 at 20% opacity
   static const themeColorsCard = Color(0x3315493e); 
   
+  static const themeColorsBackgroundPrimary = Color(0xffe6f3f7); 
+  
+  static const themeColorsBackgroundSecondary = Color(0xfffbf9f8); 
+  
+  static const themeColorsSurfaceHighlight = Color(0xff15493e); 
+  
+  static const themeColorsSurfaceCard = Color(0xff15493e); 
+  
+  static const themeColorsSurfaceDanger = Color(0xffdb7171); 
+  
+  static const themeColorsTextPrimary = Color(0xff1c2f4b); 
+  
+  static const themeColorsTextSecondary = Color(0xffdcd2c5); 
+  
+  static const themeColorsTextTertiary = Color(0xffe5ddd4); 
+  
+  static const themeColorsTextLinkPrimary = Color(0xff15493e); 
+  
+  static const themeColorsTextHighlightPrimary = Color(0xff15493e); 
+  
+  static const themeColorsTextHighlightSecondary = Color(0xff375e96); 
+  
+  static const themeColorsTextDangerPrimary = Color(0xffdb7171); 
+  
+  static const themeColorsTextOnHighlightPrimary = Color(0xffe6f3f7); 
+  
+  static const themeColorsTextOnCardPrimary = Color(0xff1c2f4b); 
+  
+  static const themeColorsTextOnCardSecondary = Color(0xffdcd2c5); 
+  
+  static const themeColorsTextOnCardTertiary = Color(0xffe5ddd4); 
+  
+  static const themeColorsTextOnDangerPrimary = Color(0xffdcd2c5); 
+  
   AppColors._();
 }
