@@ -329,56 +329,37 @@ class AppColors {
   
   static const colorsGrapefruit1000 = Color(0xff311c1c); 
   
-  static const brandColorsBrand = Color(0xff88afe7); 
+  static const brandColorsBrand = Color(0xff007d80); 
   
-  static const brandColorsLight1 = Color(0xfff6cba1); 
+  static const brandColorsLight1 = Color(0xffcce7ef); 
   
-  static const brandColorsLight2 = Color(0xfff58c8c); 
+  static const brandColorsLight2 = Color(0xff2f9cbb); 
   
-  static const brandColorsLight3 = Color(0xffe7e9de); 
+  static const brandColorsLight3 = Color(0xffe6f3f7); 
   
-  static const brandColorsLight4 = Color(0xfffbe5d0); 
+  static const brandColorsLight4 = Color(0xfffbf9f8); 
   
   /// Semi transparent light1
-  static const brandColorsLight5 = Color(0x33614c7c); 
+  static const brandColorsLight5 = Color(0x3315493e); 
   
-  static const brandColorsDark1 = Color(0xff614c7c); 
+  static const brandColorsDark1 = Color(0xff15493e); 
   
-  static const brandColorsDark2 = Color(0xffce7297); 
+  static const brandColorsDark2 = Color(0xff375e96); 
   
-  static const brandColorsDark3 = Color(0xff403252); 
+  static const brandColorsDark3 = Color(0xff0b241f); 
   
-  static const brandColorsDark4 = Color(0xff1c2f4b); 
+  static const brandColorsDark4 = Color(0xff15493e); 
   
   /// Semi transparent dark1
-  static const brandColorsDark5 = Color(0x33f6cba1); 
+  static const brandColorsDark5 = Color(0x33cce7ef); 
   
-  static const themeColorsBackground1 = Color(0xffe7e9de); 
+  static const themeColorsBackgroundPrimary = Color(0xffe6f3f7); 
   
-  static const themeColorsBackground2 = Color(0xfffbe5d0); 
+  static const themeColorsBackgroundSecondary = Color(0xfffbf9f8); 
   
-  static const themeColorsHighlight1 = Color(0xff614c7c); 
+  static const themeColorsSurfaceHighlight = Color(0xff15493e); 
   
-  static const themeColorsHighlight2 = Color(0xffce7297); 
-  
-  static const themeColorsText = Color(0xff1c2f4b); 
-  
-  static const themeColorsText2 = Color(0xff919191); 
-  
-  static const themeColorsText3 = Color(0xffababab); 
-  
-  static const themeColorsDanger = Color(0xffdb7171); 
-  
-  /// highlight1 at 20% opacity
-  static const themeColorsCard = Color(0x33614c7c); 
-  
-  static const themeColorsBackgroundPrimary = Color(0xffe7e9de); 
-  
-  static const themeColorsBackgroundSecondary = Color(0xfffbe5d0); 
-  
-  static const themeColorsSurfaceHighlight = Color(0xff614c7c); 
-  
-  static const themeColorsSurfaceCard = Color(0xff614c7c); 
+  static const themeColorsSurfaceCard = Color(0xff15493e); 
   
   static const themeColorsSurfaceDanger = Color(0xffdb7171); 
   
@@ -388,15 +369,15 @@ class AppColors {
   
   static const themeColorsTextTertiary = Color(0xffe5ddd4); 
   
-  static const themeColorsTextLinkPrimary = Color(0xff614c7c); 
+  static const themeColorsTextLinkPrimary = Color(0xff15493e); 
   
-  static const themeColorsTextHighlightPrimary = Color(0xff614c7c); 
+  static const themeColorsTextHighlightPrimary = Color(0xff15493e); 
   
-  static const themeColorsTextHighlightSecondary = Color(0xffce7297); 
+  static const themeColorsTextHighlightSecondary = Color(0xff375e96); 
   
   static const themeColorsTextDangerPrimary = Color(0xffdb7171); 
   
-  static const themeColorsTextOnHighlightPrimary = Color(0xffe7e9de); 
+  static const themeColorsTextOnHighlightPrimary = Color(0xffe6f3f7); 
   
   static const themeColorsTextOnCardPrimary = Color(0xff1c2f4b); 
   
